@@ -18,10 +18,10 @@ For more help check: https://code.visualstudio.com/docs/cpp/config-mingw#_prereq
 
 ## More Help 
 - Using Git with Visual Studio Code: https://www.youtube.com/watch?v=i_23KUAEtUM
-- Remember to change the PATH to yours:
-https://github.com/K-Konstantinidis/Connect-OpenGL-To-VsCode-Template/blob/ad7e197763b6f493b7b81e876ea547af8c5db936/.vscode/c_cpp_properties.json#L14
-https://github.com/K-Konstantinidis/Connect-OpenGL-To-VsCode-Template/blob/ad7e197763b6f493b7b81e876ea547af8c5db936/.vscode/launch.json#L19
-https://github.com/K-Konstantinidis/Connect-OpenGL-To-VsCode-Template/blob/ad7e197763b6f493b7b81e876ea547af8c5db936/.vscode/tasks.json#L11
+- Remember to change each PATH to yours:
+https://github.com/K-Konstantinidis/-Connect-OpenGL-To-VsCode-Template/blob/516f07b3ace5febaa20aa8a033f4525e9d20bb72/.vscode/c_cpp_properties.json#L14
+https://github.com/K-Konstantinidis/-Connect-OpenGL-To-VsCode-Template/blob/516f07b3ace5febaa20aa8a033f4525e9d20bb72/.vscode/launch.json#L19
+https://github.com/K-Konstantinidis/-Connect-OpenGL-To-VsCode-Template/blob/516f07b3ace5febaa20aa8a033f4525e9d20bb72/.vscode/tasks.json#L11
 
 ## Main.cpp
 In the main file there are 3 different ways to open a simple window. Uncomment and try whichever you prefer!
