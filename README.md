@@ -1,14 +1,27 @@
-# opengl-cpp-template
-Opengl c++ template for vscode ide
+# Connect-OpenGL-To-VsCode-Template
 
-This template is source code for this article https://medium.com/@vivekjha92/setup-opengl-with-vs-code-82852c653c43
+This is a template to connect OpenGL to your Visual Studio Code, linking to GLFW & GLAD.
+This is a forked repo from: vkphillia/opengl-cpp-template
 
-Requirements for this template to work
-1.  To run this template you should have GCC C++ compiler and the C/C++ extension for VS Code.
-    To setup both, follow this https://code.visualstudio.com/docs/cpp/config-mingw#_prerequisites
+## Requirements
 
-How to run this project
+- Must have `GCC C++ compiler` (preferably download it with the help of MinGW)
+- Must have `C/C++ extension` for VS Code
 
-1.  Clone this repo
-2.  Open this repo as a folder in Visual Studio Code
-3.  In VSCode menu under `Run` option select `run without debugging`
+For more help check: https://code.visualstudio.com/docs/cpp/config-mingw#_prerequisites
+
+## How to run
+
+- Clone this repo `git clone https://github.com/K-Konstantinidis/Connect-OpenGL-To-VsCode-Template.git`
+- Open it as a folder in Visual Studio Code
+- In Visual Studio Code menu select Run -> Run Without Debugging (`Ctrl + F5`)
+
+## More Help 
+- Using Git with Visual Studio Code: https://www.youtube.com/watch?v=i_23KUAEtUM
+- Remember to change the PATH to yours:
+https://github.com/K-Konstantinidis/Connect-OpenGL-To-VsCode-Template/blob/ad7e197763b6f493b7b81e876ea547af8c5db936/.vscode/c_cpp_properties.json#L14
+https://github.com/K-Konstantinidis/Connect-OpenGL-To-VsCode-Template/blob/ad7e197763b6f493b7b81e876ea547af8c5db936/.vscode/launch.json#L19
+https://github.com/K-Konstantinidis/Connect-OpenGL-To-VsCode-Template/blob/ad7e197763b6f493b7b81e876ea547af8c5db936/.vscode/tasks.json#L11
+
+## Main.cpp
+In the main file there are 3 different ways to open a simple window. Uncomment and try whichever you prefer!
