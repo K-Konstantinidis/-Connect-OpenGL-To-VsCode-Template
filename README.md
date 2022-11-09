@@ -1,7 +1,8 @@
 # Connect-OpenGL-To-VsCode-Template
 
 This is a template to connect OpenGL to your Visual Studio Code, linking to GLFW & GLAD.
-This is a forked repo from: vkphillia/opengl-cpp-template
+
+This is a forked repo from: https://github.com/vkphillia/opengl-cpp-template
 
 ## Requirements
 
